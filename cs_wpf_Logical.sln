@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_wpf_Logical", "cs_wpf_Logical\cs_wpf_Logical.csproj", "{84A2DCEE-E9A8-4151-946D-A66B7090D091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_antlr_Logical", "cs_antlr_Logical\cs_antlr_Logical.csproj", "{895DF60E-15A7-4015-80AC-693FD5623B23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_LogicalAnalyzer", "cs_LogicalAnalyzer\cs_LogicalAnalyzer.csproj", "{08430C48-9E5E-49B7-A811-609D7E8151CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84A2DCEE-E9A8-4151-946D-A66B7090D091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A2DCEE-E9A8-4151-946D-A66B7090D091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A2DCEE-E9A8-4151-946D-A66B7090D091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A2DCEE-E9A8-4151-946D-A66B7090D091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895DF60E-15A7-4015-80AC-693FD5623B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895DF60E-15A7-4015-80AC-693FD5623B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895DF60E-15A7-4015-80AC-693FD5623B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895DF60E-15A7-4015-80AC-693FD5623B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08430C48-9E5E-49B7-A811-609D7E8151CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08430C48-9E5E-49B7-A811-609D7E8151CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08430C48-9E5E-49B7-A811-609D7E8151CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08430C48-9E5E-49B7-A811-609D7E8151CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
